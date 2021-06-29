@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TriangleVerticesCalc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TriangleVerticesCalc_jar</output-path>
+    <root id="archive" name="TriangleVerticesCalc.jar">
+      <element id="module-output" name="TriangleVerticesCalc" />
+    </root>
+  </artifact>
+</component>
